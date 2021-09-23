@@ -4,7 +4,6 @@
  
     Project 3
     CS 1337.505
-    Professor Oladimeji
  */
 
 #include "declarations.h"
